@@ -1945,7 +1945,7 @@ function _classCallCheck(a, n) { if (!(a instanceof n)) throw new TypeError("Can
       selectors: [["app-side-menu"]],
       decls: 37,
       vars: 3,
-      consts: [[1, "side-bar-section"], [1, "side-bar-section-category-div"], ["name", "side-bar-section-category-title"], ["name", "side-bar-section-category-list"], [1, "category-list-item"], ["href", ""], [1, "side-bar-section-search-div"], ["for", "search-input", 1, "search-div-title"], [1, "search-div-input"], ["id", "search-input", "placeholder", "Pesquisar por..."], [1, "nav-bar"], [1, "home-div"], ["href", "", 1, "proj-link"], [1, "proj-img-container"], ["src", "./assets/home.png", "alt", "home icon", 1, "box-shadow"], [1, "proj-link", 3, "routerLink", "queryParams"], [1, "proj-link", 3, "routerLink"]],
+      consts: [[1, "side-bar-section"], [1, "side-bar-section-category-div"], ["name", "side-bar-section-category-title"], ["name", "side-bar-section-category-list"], [1, "category-list-item"], ["href", ""], [1, "side-bar-section-search-div"], ["for", "search-input", 1, "search-div-title"], [1, "search-div-input"], ["id", "search-input", "placeholder", "Pesquisar por..."], [1, "nav-bar"], [1, "home-div"], ["href", "/", 1, "proj-link"], [1, "proj-img-container"], ["src", "./assets/home.png", "alt", "home icon", 1, "box-shadow"], [1, "proj-link", 3, "routerLink", "queryParams"], [1, "proj-link", 3, "routerLink"]],
       template: function SideMenuComponent_Template(rf, ctx) {
         if (rf & 1) {
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "aside", 0);
